@@ -1,0 +1,35 @@
+.micuenta {
+    color: white;
+    padding-top: 0.3rem;
+    margin-right: 0.5rem;
+}
+
+.btn-info {
+    background-color: white;
+    border: #20caf1;
+    color: #20caf1;
+    font-size: 1rem;
+}
+.btn-info:hover {
+    background-color: #20caf1;
+    color: white;
+}
+#boton1 {
+    background-color: #20caf1;
+    color: white;
+}
+
+#boton1:hover {
+    background-color: white;
+    color: #20caf1;
+}
+
+#boton2 {
+    background-color: #20caf1;
+    color: white;
+}
+
+#boton2:hover {
+    background-color: white;
+    color: #20caf1;
+}
